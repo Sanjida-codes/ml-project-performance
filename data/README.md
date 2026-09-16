@@ -1,1 +1,1 @@
-Dummy student dataset used for Lab 1 exploratory data analysis.
+Covers Lab 1 activities: Python notebook syntax (A), NumPy array gym (B), Pandas dataframe detective and EDA (C), and reproducibility experiments (D).
