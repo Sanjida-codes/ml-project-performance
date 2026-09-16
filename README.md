@@ -10,7 +10,7 @@ This project analyzes student study hours, sleep habits, attendance, and snack p
 The dataset contains a small handcrafted sample of 6 student records for exploratory data analysis and basic Pandas manipulation practice.
 
 ## How to Run the Notebook
-1. Open the repository and locate the `notebooks/lab01_setup.ipynb` file.
+1. Open the repository and locate the `notebooks/ML_Lab01_050_Mim.ipynb` file.
 2. Open it in **Google Colab**.
 3. Run the code cells sequentially to view dataframes, statistical summaries, and filtering results.
 
